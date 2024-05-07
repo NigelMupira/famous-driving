@@ -1,0 +1,17 @@
+REQUIRED PAGES:
+
+1. Home: This is our landing page, so make a strong first impression. It should include a hero section, benefit oriented content (focus on the benefits we offer visitors, not just features), have clear navigation and be user friendly and a call to action (CTA) telling the visitors what we want them to do next.
+
+2. About Us: Tell our story. Features include: brand story or origin story, our credentials and any awards or recognition, mission statement and values, info abt what makes us unique and a unique selling proposition (USP), a team intro and their roles, expertise and qualifications and also list any affiliations.
+
+3. Services: Detail the driving courses we offer, including learner permits, driver's education packages, refresher courses, and any specialized classes (defensive driving, behind-the-wheel training for specific vehicles).
+
+4. Pricing/Billing: Be transparent with our pricing structure. List the costs of our various packages and any additional fees and also any discounts or specials. Again don't just list features but include benefits and make it compelling.
+
+5. Scheduling/Booking: Provide info on how to book a lesson. Integrate a scheduling tool or calendar system that allows visitors to see your available appointment slots and include a booking form, which is kept minimum, for visitors to enter their info and confirm a booking.
+
+6. Contact: Make it easy for visitors to reach you. Include driving school location, links to any platforms it is present on, your phone number, email address, physical address (if applicable), and a contact form which allows visitors to send us a message directly from the website.
+
+7. Ratings and Reviews: Clearly display an overall rating for the product, service, or company. Present individual customer reviews and testimonials in a clear and easy-to-read format. Allow visitors to sort reviews by various criteria like date, rating, or helpfulness. Prompt visitors to leave their own reviews. Let users mark reviews as "helpful" or "not helpful".
+
+8. Help: A well-designed help page can be a lifesaver for your website visitors. Organize your help content in a logical and hierarchical manner. Create detailed articles that address common pain points, usage instructions, and troubleshooting steps; include screenshots or  diagrams if possible. Include FAQs along with clear and concise answers.
