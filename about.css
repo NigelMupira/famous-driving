@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+	background-color: #e6f7ff;
+}
+
+.navbar {
+	background-color: #0000ff;
+	display:flex;
+	justify-content: center;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.navbar li {
+	float: left;
+}
+
+.navbar li a {
+	display: block;
+	color: #ffffff;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+.navbar li a:hover {
+	background-color: #00ccff;
+}
+
+.header {
+	background-color: #00ccff;
+	font-family: courier;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	height: 200px;
+	margin-bottom: 75px;
+	padding: 25px;
+}
+
+#logo {
+	float:left;
+	width:150px;
+	height:150px;
+	margin-top:-25px;
+}
+
+.body {
+	margin: 25px;
+	font-family: courier;
+}
+
+section {
+	background-color: #ffffff;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#team 
+{
+	height: 500px;
+}
+
+h1 {
+	color: #007bff;
+	text-align: center;
+}
+
+.flesh 
+{
+	font-family: comic sans ms;
+}
+
+#header {
+	color: #000000;
+}
+
+h2 {
+	color: #007bff;
+}
+
+#sub{
+	color: #333;
+}
+
+p {
+	color: #333;
+}
+
+#copy {
+	text-align: center
+}
