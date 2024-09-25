@@ -1,7 +1,8 @@
 # Famous Driving School Website Project
 
+* This project is a driving school website built by a group of 7 students as an assignment for an undergraduate course.
 * Famous Driving School was established in 2014 with the aim of promoting road safety and providing high quality driving education.
-* The driving school had no website so we saw this as an opportunity to assist,
+* The driving school had no website so we saw this as an opportunity to assist.
 
 ## Description:
 
@@ -24,7 +25,7 @@
 
 ## Assignment Details:
 
-* **Academic year** 1 (2023/24) **Semester** 2
+* **Academic year** 1 (2023/24) **Semester** 2 (Feb-May 2024)
 * **Period of assignment:** March-May 2024
 * **Practical 1 (Mini Project)**
 * **Question:** Choose one product/service which is lacking i.e. (revenue/ profit/ market share/
@@ -34,13 +35,11 @@ market growth) in your area of study.
 
 * Harare Institute of Technology
 * School of Information Science and Technology
-* **Degree:** Information Security and Assurance
+* **Degree:** (BSc) Information Security and Assurance
 * **Course:** ISS2105 Web Technologies
 * **Lecturer:** Wilton Muzava (wmuzava@hit.ac.zw)
 
 ## Contributors:
-
-* This project was built by a the following group of 7 students as a solution to an assignment:
 
   * Kapfidze Tadiwanashe D. H230762X
   * Kudumba Tafadzwa A. H230638M
