@@ -25,7 +25,7 @@
 ## Assignment Details:
 
 * **Academic year** 1 (2023/24) **Semester** 2
-* **Period:** March-May 2024
+* **Period of assignment:** March-May 2024
 * **Practical 1 (Mini Project)**
 * **Question:** Choose one product/service which is lacking i.e. (revenue/ profit/ market share/
 market growth) in your area of study.
