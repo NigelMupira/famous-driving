@@ -22,6 +22,22 @@
 * CSS
 * JavaScript
 
+## Assignment Details:
+
+* **Academic year** 1 (2023/24) **Semester** 2
+* **Period:** March-May 2024
+* **Practical 1 (Mini Project)**
+* **Question:** Choose one product/service which is lacking i.e. (revenue/ profit/ market share/
+market growth) in your area of study.
+
+## School Details
+
+* Harare Institute of Technology
+* School of Information Science and Technology
+* **Degree:** Information Security and Assurance
+* **Course:** ISS2105 Web Technologies
+* **Lecturer:** Wilton Muzava (wmuzava@hit.ac.zw)
+
 ## Contributors:
 
 * This project was built by a the following group of 7 students as a solution to an assignment:
@@ -33,17 +49,3 @@
   * Ngwerume Makatida H230006G
   * Mandimika Ropafadzo V. H230048N
   * Nhekairo Tanaka S. H230261H
-
-## Assignment Details:
-
-* **Question:** Choose one product/service which is lacking i.e. (revenue/ profit/ market share/
-market growth) in your area of study.
-
-## School Details
-
-* Harare Institute of Technology
-* School of Information Science and Technology
-* **Degree:** Information Security and Assurance
-* **Course:** ISS2105 Web Technologies
-* **Assignment:** Practical 1 (Mini Project)
-* **Lecturer:** Wilton Muzava (wmuzava@hit.ac.zw)
